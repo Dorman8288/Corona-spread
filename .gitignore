@@ -20,6 +20,7 @@ parts/
 sdist/
 var/
 wheels/
+COVID-19-master/
 share/python-wheels/
 *.egg-info/
 .installed.cfg
